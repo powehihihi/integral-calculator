@@ -16,7 +16,7 @@
  
  If you want to calculate
  
-https://latex.codecogs.com/svg.image?\int_{a}^{b}F(x)dx&space;\\&space;\\(a\in&space;\mathbb{R},&space;\,b&space;\in&space;\mathbb{R}\cup&space;\{&plus;\infty\})
+<img src="https://latex.codecogs.com/svg.image?\int_{a}^{b}F(x)dx&space;\\&space;\\(a\in&space;\mathbb{R},&space;\,b&space;\in&space;\mathbb{R}\cup&space;\{&plus;\infty\})">
  
  run
  
